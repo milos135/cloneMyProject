@@ -1,0 +1,10 @@
+diff a/doom.html b/doom.html	(rejected hunks)
+@@ -6,6 +6,6 @@
+     <title>Document</title>
+ </head>
+ <body>
+-    <div>Hello St</div>
++    <div>Hello Stttt</div>
+ </body>
+ </html>
+\ No newline at end of file
